@@ -2,7 +2,7 @@
 
 **Course:** Advanced Web Development - Streaming
 
-**Student:** هاجر محمد الشاوي
+**Student:** هاجر محمد الشاوي-سلمى بسام حردان
 
 **Project:** #14 - Live Subtitles / Translation
 
