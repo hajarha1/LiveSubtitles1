@@ -1,7 +1,9 @@
 # Live Subtitles - مشروع الترجمة الفورية المباشرة
 
 **Course:** Advanced Web Development - Streaming
-**Student:** [اسمك الكامل]
+
+**Student:** هاجر محمد الشاوي
+
 **Project:** #14 - Live Subtitles / Translation
 
 ## Demo Video
